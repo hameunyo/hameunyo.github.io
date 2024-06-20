@@ -1,0 +1,43 @@
+# Personal Portfolio
+
+This repository contains my personal portfolio website, built to showcase my projects and skills. The website is built using HTML, CSS, and JavaScript, with the Bootstrap framework.
+
+## Table of Contents
+- [Projects](#projects)
+- [Technologies Used](#technologies-used)
+- [Theme Used](#theme-used)
+- [Contact](#contact)
+
+## Projects
+
+### 1. Web Scraping & Data Analysis Tool
+- **Language**: Python
+- **Description**: This project is a tool for automatically collecting and analyzing data from websites. It uses BeautifulSoup and Requests libraries to extract data from web pages and Pandas to organize and analyze the data. Additionally, Matplotlib and Seaborn are used for data visualization.
+
+### 2. Simple Text-Based Game
+- **Language**: C
+- **Description**: This project is a simple text-based game where users interact through text commands. Developed in C, it includes game logic and user input handling. The goal is to help the user escape from a maze filled with traps and challenges.
+
+### 3. Online Learning Platform
+- **Technologies**: HTML, CSS, JavaScript, React
+- **Description**: This project is an online learning platform where users can watch lecture videos and take quizzes. Key features include video uploads, quiz creation, and grade management. The platform provides a user-friendly UI to enhance the learning experience.
+
+### 4. Weather Information Web Application
+- **Technologies**: HTML, CSS, JavaScript, API
+- **Description**: This project is a web application that provides real-time weather information for a specified city. It uses the OpenWeatherMap API to fetch weather data and displays information such as current weather, temperature, and humidity. The app includes weather icons and graphs for intuitive information display.
+
+### 5. Online Quiz Application
+- **Technologies**: HTML, CSS, JavaScript
+- **Description**: This project is an interactive quiz application that provides quizzes on various topics and records user scores. Developed using HTML, CSS, and JavaScript, it allows users to answer questions and calculate their scores. The application includes a timer function to complete quizzes within a set time.
+
+## Technologies Used
+- **Languages**: HTML, CSS, JavaScript, Python, C
+- **Libraries**: React, BeautifulSoup, Requests, Pandas, Matplotlib, Seaborn
+- **Tools**: Git, GitHub, Bootstrap, OpenWeatherMap API
+
+## Theme Used
+- **Theme**: [Start Bootstrap - Resume](https://startbootstrap.com/previews/resume)
+
+## Contact
+- **Email**: hameunyo@naver.com
+- **GitHub**: [https://github.com/hameunyo/hameunyo.github.io](https://github.com/hameunyo/hameunyo.github.io)
