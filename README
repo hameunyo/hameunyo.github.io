@@ -1,43 +1,37 @@
-# Personal Portfolio
+# 개인 포트폴리오
 
-This repository contains my personal portfolio website, built to showcase my projects and skills. The website is built using HTML, CSS, and JavaScript, with the Bootstrap framework.
+이 리포지토리에는 저의 프로젝트와 기술을 보여주는 개인 포트폴리오 웹사이트가 포함되어 있습니다. 이 웹사이트는 HTML, CSS, JavaScript 및 Bootstrap 프레임워크를 사용하여 제작되었습니다.
 
-## Table of Contents
-- [Projects](#projects)
-- [Technologies Used](#technologies-used)
-- [Theme Used](#theme-used)
-- [Contact](#contact)
+## 목차
+- [프로젝트](#프로젝트)
+- [사용된 테마](#사용된-테마)
+- [연락처](#연락처)
 
-## Projects
+## 프로젝트
 
-### 1. Web Scraping & Data Analysis Tool
-- **Language**: Python
-- **Description**: This project is a tool for automatically collecting and analyzing data from websites. It uses BeautifulSoup and Requests libraries to extract data from web pages and Pandas to organize and analyze the data. Additionally, Matplotlib and Seaborn are used for data visualization.
+### 1. 웹 스크래핑 및 데이터 분석 도구
+- **언어**: Python
+- **설명**: 이 프로젝트는 웹사이트에서 데이터를 자동으로 수집하고 분석하는 도구입니다. BeautifulSoup과 Requests 라이브러리를 사용하여 웹 페이지에서 데이터를 추출하고 Pandas를 사용하여 데이터를 정리하고 분석합니다. 추가적으로 Matplotlib과 Seaborn을 사용하여 데이터를 시각화합니다.
 
-### 2. Simple Text-Based Game
-- **Language**: C
-- **Description**: This project is a simple text-based game where users interact through text commands. Developed in C, it includes game logic and user input handling. The goal is to help the user escape from a maze filled with traps and challenges.
+### 2. 스네이크 게임
+- **언어**: C
+- **설명**: 이 프로젝트는 전통적인 스네이크 게임의 텍스트 기반 버전입니다. C 언어를 사용하여 개발되었으며, 사용자가 텍스트 명령을 통해 뱀을 조작하고 먹이를 먹어 길이를 늘리는 게임입니다. 게임의 목표는 가능한 오래 살아남는 것입니다. 이 프로젝트를 통해 기본적인 알고리즘과 자료 구조를 학습할 수 있습니다. (사진은 C 언어를 사용해 게임을 만들었다는 의미로 사용되었습니다.)
 
-### 3. Online Learning Platform
-- **Technologies**: HTML, CSS, JavaScript, React
-- **Description**: This project is an online learning platform where users can watch lecture videos and take quizzes. Key features include video uploads, quiz creation, and grade management. The platform provides a user-friendly UI to enhance the learning experience.
+### 3. 온라인 학습 플랫폼
+- **기술**: HTML, CSS, JavaScript, React
+- **설명**: 이 프로젝트는 사용자가 강의 동영상을 보고 퀴즈를 풀 수 있는 온라인 학습 플랫폼입니다. 주요 기능으로는 동영상 업로드, 퀴즈 생성, 성적 관리가 있으며, 사용자 친화적인 UI를 제공합니다.
 
-### 4. Weather Information Web Application
-- **Technologies**: HTML, CSS, JavaScript, API
-- **Description**: This project is a web application that provides real-time weather information for a specified city. It uses the OpenWeatherMap API to fetch weather data and displays information such as current weather, temperature, and humidity. The app includes weather icons and graphs for intuitive information display.
+### 4. 날씨 정보 웹 애플리케이션
+- **기술**: HTML, CSS, JavaScript, API
+- **설명**: 이 프로젝트는 특정 도시의 실시간 날씨 정보를 제공하는 웹 애플리케이션입니다. OpenWeatherMap API를 사용하여 날씨 데이터를 가져오고 현재 날씨, 온도, 습도 등의 정보를 표시합니다. 날씨 아이콘과 그래프를 통해 직관적인 정보를 제공합니다.
 
-### 5. Online Quiz Application
-- **Technologies**: HTML, CSS, JavaScript
-- **Description**: This project is an interactive quiz application that provides quizzes on various topics and records user scores. Developed using HTML, CSS, and JavaScript, it allows users to answer questions and calculate their scores. The application includes a timer function to complete quizzes within a set time.
+### 5. 온라인 퀴즈 애플리케이션
+- **기술**: HTML, CSS, JavaScript
+- **설명**: 이 프로젝트는 다양한 주제의 퀴즈를 제공하고 사용자 점수를 기록할 수 있는 인터랙티브 퀴즈 애플리케이션입니다. HTML, CSS, JavaScript를 사용하여 개발되었으며, 사용자가 질문에 답변하고 점수를 계산할 수 있도록 설계되었습니다. 또한 타이머 기능을 포함하여 제한 시간 내에 퀴즈를 완료해야 합니다.
 
-## Technologies Used
-- **Languages**: HTML, CSS, JavaScript, Python, C
-- **Libraries**: React, BeautifulSoup, Requests, Pandas, Matplotlib, Seaborn
-- **Tools**: Git, GitHub, Bootstrap, OpenWeatherMap API
+## 사용된 테마
+- **테마**: [Start Bootstrap - Resume](https://startbootstrap.com/previews/resume)
 
-## Theme Used
-- **Theme**: [Start Bootstrap - Resume](https://startbootstrap.com/previews/resume)
-
-## Contact
-- **Email**: hameunyo@naver.com
+## 연락처
+- **이메일**: hameunyo@naver.com
 - **GitHub**: [https://github.com/hameunyo/hameunyo.github.io](https://github.com/hameunyo/hameunyo.github.io)
